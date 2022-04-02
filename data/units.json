@@ -434,7 +434,7 @@
     {
         "name": "Slingshot",
         "squadSize": 1,
-        "unitType": "Air",
+        "unitType": "Vehicle",
         "health": 1500,
         "cost": 50,
         "building": "Vehicle",
