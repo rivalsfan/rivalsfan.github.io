@@ -1,0 +1,62 @@
+[
+    {
+        "url": "examples/ex00-all-decks.js",
+        "fname": "ex00-all-decks",
+        "description": "validate all decks",
+        "_key": "08ea302f-3dc6-4fea-abef-37a8d91f82e7"
+    },
+    {
+        "url": "examples/ex01-contains-commander.js",
+        "fname": "ex01-contains-commander",
+        "description": "validate decks that contains a commander",
+        "_key": "9461ffc2-7d8f-47e9-9ddb-5a2ad7b6e9a1"
+    },
+    {
+        "url": "examples/ex02-contains-units.js",
+        "fname": "ex02-contains-units",
+        "description": "validate decks that contains certain units",
+        "_key": "891cbf4a-4163-48ee-baed-0d5195710303"
+    },
+    {
+        "url": "examples/ex03-2-2-2-deck.js",
+        "fname": "ex03-2-2-2-deck",
+        "description": "validate decks that contains 2 infantry units, 2 vechicles units, 2 air units",
+        "_key": "a3225e0e-a3fa-4563-ad99-b2378c682683"
+    },
+    {
+        "url": "examples/ex04-cheap-deck.js",
+        "fname": "ex04-cheap-deck",
+        "description": "validate decks that are cheap",
+        "_key": "eae5ac83-f071-4f3f-92b5-c620175bc4a4"
+    },
+    {
+        "url": "examples/ex05-mutant-chuggy.js",
+        "fname": "ex05-mutant-chuggy",
+        "description": "validate decks that practical deck with mutant chuggy",
+        "_key": "815b139a-868f-4164-990c-1382ec5d94c9"
+    },
+    {
+        "url": "examples/ex06-well-rounded-decks.js",
+        "fname": "ex06-well-rounded-decks",
+        "description": "validate well rounded decks",
+        "_key": "4c002b19-5c02-4f0d-8095-adf3c72b3f2b"
+    },
+    {
+        "url": "examples/ex07-total-cost.js",
+        "fname": "ex07-total-cost",
+        "description": "validate decks that satisfies total cost constraint",
+        "_key": "5ae5b810-d6df-408f-b279-db3f24cc5e08"
+    },
+    {
+        "url": "examples/ex08-vehicles-more-expensive-than-infantry.js",
+        "fname": "ex08-vehicles-more-expensive-than-infantry",
+        "description": "validate decks that any vehicles are more expensive than all infantry if any",
+        "_key": "d435af6f-aaf5-414f-ab6e-853bb0510154"
+    },
+    {
+        "url": "examples/ex09-well-rounded-decks-advanced.js",
+        "fname": "ex09-well-rounded-decks-advanced",
+        "description": "validate well rounded decks including commander power",
+        "_key": "da4a0b71-3c97-4dff-a5ef-f182b369e987"
+    }
+]
